@@ -1,7 +1,7 @@
-# Detector de roedores
+# Raspberry PI para dispositivo de Streaming
 
 ## Introduccion
 
-EL autor dice:
-> *este* **un** trabajo muy _sencillo_ de **hacer**
+Para entender como funcionaria esto, debemos entender que es un **Chrome Cast** 
+
 
