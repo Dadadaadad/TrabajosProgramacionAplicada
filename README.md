@@ -3,13 +3,14 @@
 ## Introduccion
 
 Para entender como funcionaria esto, debemos entender que es un **Chrome Cast**; el Chrome Cast funciona para converitr en Smart TV un televisor que ya sea por modelo o por antiguedad, no es compatible con esta opcion. 
-* Algunas Apps que se pueden usar en el TV gracias al Chrome Cast 
+* Algunas Apps que se pueden usar en el TV gracias al dispostitivo que simula un Chrome Cast
   *  Netflix 
   *  Spotify
   *  Google Music
   *  YouTube
   *  Cualquier  App de Stream disponible para Android
- 
+ Sin embargo, su propio creador dice:
+ > This is not a direct clone to Chromecast and that there are limitations. This method does not support the cast button but will stream Youtube videos as well as local audio and video files directly from your smartphone using an Android application. And I believe this application is only for android devices. 
    
       
  ![Chrome Cast](https://www.alkosto.com/medias/193575001371-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTExODl8aW1hZ2UvanBlZ3xpbWFnZXMvaDU3L2g2NS85NTQ0MzE3NzMwODQ2LmpwZ3w2YWJhZjAyNjFkYTBlOTk4YjcyN2U2ZGFlOTlhODJmZGJkNGY1ZWM2ZmI3YjAzMTRkZmU5YmY0MWRlNzQ2YzZm)
