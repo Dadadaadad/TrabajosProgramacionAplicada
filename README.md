@@ -4,7 +4,7 @@
 
 Para entender como funcionaria esto, debemos entender que es un **Chrome Cast**; el Chrome Cast funciona para converitr en Smart TV un televisor que ya sea por modelo o por antiguedad, no es compatible con esta opcion. 
 * Algunas Apps que se pueden ver gracias al Chrome Cast
-      * Netflix
+   * Netflix
       * Youtube
       * Google Music
       * Spotify
