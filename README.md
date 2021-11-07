@@ -11,7 +11,7 @@ Para entender como funcionaria esto, debemos entender que es un **Chrome Cast**;
   *  Cualquier  App de Stream disponible para Android
    
       
- ![Chrome Cast](https://www.alkosto.com/medias/193575001371-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTExODl8aW1hZ2UvanBlZ3xpbWFnZXMvaDU3L2g2NS85NTQ0MzE3NzMwODQ2LmpwZ3w2YWJhZjAyNjFkYTBlOTk4YjcyN2U2ZGFlOTlhODJmZGJkNGY1ZWM2ZmI3YjAzMTRkZmU5YmY0MWRlNzQ2YzZm)
+ ![Dispositivo terminado](https://content.instructables.com/ORIG/FZN/15J1/JCAUC1H4/FZN15J1JCAUC1H4.jpg?auto=webp&frame=1&width=700&height=1024&fit=bounds&md=65de648f49a80918b530e2e5b4ab90f5)
 
 El adaptador se concecta por _HDMI_ al televisor y por _USB_ a la fuente de poder. A su vez es necesario una _APP_ para disposditivo movil la cual es la parte escencial del adaptador, puesto que esta es la que da la señal que se proyectara, sin embargo, una vez que empiece la transmisión. no es necesario mantener la _App_ abierta pra usar el Chrome Cast
 
