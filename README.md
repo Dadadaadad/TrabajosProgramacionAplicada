@@ -24,7 +24,7 @@ Para esto haremos una tabla comparativa entre el Chrome Cast y el proceso Analog
 
      Pros         |       Contras
   --------------- | ---------------- 
-   Usar sin necesidad de cables | Dependencia de un dispositivo externo para su funcionamiento
+  Usar sin necesidad de cables | Dependencia de un dispositivo externo para su funcionamiento
   Posibilidad de usar el dispositivo, del cual se conecta. Asi este este transmiteindo | Dependencia del Raspberry Pi a estar conectado a WiFi
   
   
