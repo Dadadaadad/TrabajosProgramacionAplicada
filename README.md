@@ -22,9 +22,9 @@ Para poder mirar paso y detalladamente como realizar el montaje, puedes [dar cli
 
 Para esto haremos una tabla comparativa entre el Chrome Cast y el proceso Analogico de stream.
 
-     Pros         |       Contras
-  --------------- | ---------------- 
-  Usar sin necesidad de cables | Dependencia de un dispositivo externo para su funcionamiento
-  Posibilidad de usar el dispositivo, del cual se conecta. Asi este este transmiteindo | Dependencia del Raspberry Pi a estar conectado a WiFi
+Pros         |       Contras
+--------------- | ----------------
+Usar sin necesidad de cables | Dependencia de un dispositivo externo para su funcionamiento
+Posibilidad de usar el dispositivo, del cual se conecta. Asi este este transmiteindo | Dependencia del Raspberry Pi a estar conectado a WiFi
   
   
