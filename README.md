@@ -39,6 +39,6 @@ Convertir cualquier televisor que tenga entrada HDMI a un Smart TV | La App pres
 
 ## Referencias
 
- > https://www.instructables.com/Raspberry-Pi-As-Chromecast-Alternative-Raspicast/
+ * https://www.instructables.com/Raspberry-Pi-As-Chromecast-Alternative-Raspicast/
   
   
