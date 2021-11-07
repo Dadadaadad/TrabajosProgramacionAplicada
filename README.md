@@ -23,7 +23,7 @@ Para poder mirar paso y detalladamente como realizar el montaje, puedes [dar cli
 Para esto haremos una tabla comparativa entre el Chrome Cast y el proceso Analogico de stream.
 
      Pros         |       Contras
-  _______________ | _________________ 
+  --------------- | ---------------- 
   
   Usar sin necesidad de cables | Dependencia de un dispositivo externo para su funcionamiento
   
