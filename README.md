@@ -9,8 +9,6 @@ Para entender como funcionaria esto, debemos entender que es un **Chrome Cast**;
   *  Google Music
   *  YouTube
   *  Cualquier  App de Stream disponible para Android
- Sin embargo, su propio creador dice:
- > This is not a direct clone to Chromecast and that there are limitations. This method does not support the cast button but will stream Youtube videos as well as local audio and video files directly from your smartphone using an Android application. And I believe this application is only for android devices. 
    
       
  ![Chrome Cast](https://www.alkosto.com/medias/193575001371-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTExODl8aW1hZ2UvanBlZ3xpbWFnZXMvaDU3L2g2NS85NTQ0MzE3NzMwODQ2LmpwZ3w2YWJhZjAyNjFkYTBlOTk4YjcyN2U2ZGFlOTlhODJmZGJkNGY1ZWM2ZmI3YjAzMTRkZmU5YmY0MWRlNzQ2YzZm)
@@ -37,6 +35,10 @@ Pros         |       Contras
 Usar sin necesidad de cables | Dependencia de un dispositivo externo para su funcionamiento
 Posibilidad de usar el dispositivo, del cual se conecta. Asi este esté transmiteindo | Dependencia del Raspberry Pi a estar conectado a WiFi
 Convertir cualquier televisor que tenga entrada HDMI a un Smart TV | La App presentada, solo esta para Android, es necesario crear una para Apple.
+
+Su propio creador dice: 
+> This is not a direct clone to Chromecast and that there are limitations. This method does not support the cast button but will stream Youtube videos as well as local audio and video files directly from your smartphone using an Android application. And I believe this application is only for android devices. 
+
 
 ## Referencias
 
