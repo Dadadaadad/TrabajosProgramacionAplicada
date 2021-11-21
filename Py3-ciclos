@@ -1,0 +1,173 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMR3LxXriP+HuyFS/UT/9qm",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Dadadaadad/TrabajosProgramacionAplicada/blob/py3-ciclos/Py3-ciclos\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "l9hGcmTE3fLB"
+      },
+      "source": [
+        "Primer ejercicio sumatoria donde A,B,C son listas con n datos"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "NEHVbWUqxS4B"
+      },
+      "source": [
+        "def sumatoria_1(A,B,C):\n",
+        "  n = len(A)\n",
+        "  acumulador=0\n",
+        "  for i in range(n):\n",
+        "    d = A[i]*B[i]\n",
+        "    e = C[i]+d\n",
+        "    acumulador = acumulador + e \n",
+        "  resultado = acumulador + n**2\n",
+        "  return resultado\n",
+        "\n",
+        "\n"
+      ],
+      "execution_count": 5,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "wGWQHeBgxjCA",
+        "outputId": "0e5b9f78-5a77-41f6-84f3-b2226a9e0788"
+      },
+      "source": [
+        "A=[4,2,0]\n",
+        "B=[9,8,1]\n",
+        "C=[6,3,7]\n",
+        "sumatoria_1(A,B,C)\n"
+      ],
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "77"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "ZBtXNbZpxYTg",
+        "outputId": "370f8622-32ae-48d7-aac4-912ad649692c"
+      },
+      "source": [
+        "(((4*9)+6) + ((2*8)+3) + ((0*1)+7)) + 3**2\n"
+      ],
+      "execution_count": 11,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "77"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 11
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "igDh-wgO3Dgx"
+      },
+      "source": [
+        "Segundo ejercicio Funcion que llene la lista C, donde A,B son listas con 2n datos\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "lGaoR2nd3b5y"
+      },
+      "source": [
+        "def llena_lista_1(A,B):\n",
+        "  n=len(A)//2\n",
+        "  C=[]\n",
+        "  for i in range (n):\n",
+        "    d = (A[i+1])**2\n",
+        "    e = B[2*i]*d \n",
+        "    f = e+B[n+i]\n",
+        "    C.append(f)\n",
+        "  return C\n",
+        "  \n"
+      ],
+      "execution_count": 12,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "XsYlvoKG7iNj",
+        "outputId": "d3b42a2b-b758-476e-a5d6-e1b89cdb8069"
+      },
+      "source": [
+        "A=[-5,5,-9,8]\n",
+        "B=[-6,9,1,-9]\n",
+        "llena_lista_1(A,B)\n"
+      ],
+      "execution_count": 14,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "[-149, 72]"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 14
+        }
+      ]
+    }
+  ]
+}
